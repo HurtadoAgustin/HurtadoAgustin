@@ -23,6 +23,7 @@ I would like to work in a colaborative and enriching environment, in which I can
 ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -30,7 +31,7 @@ I would like to work in a colaborative and enriching environment, in which I can
 ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
  
 ## ⚙️ &nbsp; Github Stats:&nbsp;&nbsp;
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats" target="blank">
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats" target="_blank">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=hurtadoagustin&show_icons=true&locale=en&theme=nightowl"
     alt="HurtadoAgustin Stats"
@@ -39,7 +40,7 @@ I would like to work in a colaborative and enriching environment, in which I can
   <br>
 </a>
 <br>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats" target="blank">
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats" target="_blank">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hurtadoagustin&show_icons=true&locale=en&layout=compact&theme=nightowl"
     alt="HurtadoAgustin Top lenguages"
@@ -49,7 +50,7 @@ I would like to work in a colaborative and enriching environment, in which I can
 
 ## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
 <section align="left">
-  <a href="https://www.linkedin.com/in/leandro-agustin-hurtado/" target="blank">
+  <a href="https://www.linkedin.com/in/leandro-agustin-hurtado/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Linkedin profile"
@@ -58,7 +59,7 @@ I would like to work in a colaborative and enriching environment, in which I can
       width="45"
     />
   </a>
-  <a href="https://www.instagram.com/aguss_ok5/" target="blank">
+  <a href="https://www.instagram.com/aguss_ok5/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram profile"
@@ -67,7 +68,7 @@ I would like to work in a colaborative and enriching environment, in which I can
       width="45"
     />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5491124080528&text=Hello%20Agustin,%20Let%27s%20chat!" target="blank">
+  <a href="https://api.whatsapp.com/send?phone=5491124080528&text=Hello%20Agustin,%20Let%27s%20chat!" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="Whatsapp profile"
@@ -76,7 +77,7 @@ I would like to work in a colaborative and enriching environment, in which I can
       width="45"
     />
   </a>
-  <a href="mailto:leandroagustinhurtado@gmail.com?Subject=Hello%20Agustin,%20Let%27s%20connect!" target="blank">
+  <a href="mailto:leandroagustinhurtado@gmail.com?Subject=Hello%20Agustin,%20Let%27s%20connect!" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631"
       alt="Gmail profile"
@@ -85,7 +86,7 @@ I would like to work in a colaborative and enriching environment, in which I can
       width="45"
     />
   </a>
-  <a href="https://www.facebook.com/leandroagustin.hurtado" target="blank">
+  <a href="https://www.facebook.com/leandroagustin.hurtado" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Facebook profile"
@@ -94,7 +95,7 @@ I would like to work in a colaborative and enriching environment, in which I can
       width="45"
     />
   </a>
-  <a href="https://twitter.com/aguss_5ok" target="blank">
+  <a href="https://twitter.com/aguss_5ok" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Facebook profile"
