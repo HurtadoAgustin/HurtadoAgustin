@@ -36,6 +36,7 @@ I would like to work in a colaborative and enriching environment, in which I can
     alt="HurtadoAgustin Stats"
     align="center"
   />
+  <br>
 </a>
 <br>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats" target="blank">
