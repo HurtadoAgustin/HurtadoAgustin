@@ -1,0 +1,248 @@
+{
+  "techs": [
+    {
+      "id": 1,
+      "code": "JS",
+      "name": "JavaScript",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "HRY"
+      }],
+      "badgets": [
+        {
+          "name": "Linkedin",
+          "page": "Linkedin",
+          "url": "https://",
+          "image": "https://"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "code": "HTML",
+      "name": "HTML",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "HRY"
+      }],
+      "badgets": [
+        {
+          "name": "Linkedin",
+          "page": "Linkedin",
+          "url": "https://",
+          "image": "https://"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "code": "CSS",
+      "name": "CSS",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "HRY"
+      }],
+      "badgets": []
+    },
+    {
+      "id": 4,
+      "code": "JSX",
+      "name": "React",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "HRY"
+      }],
+      "badgets": []
+    },
+    {
+      "id": 5,
+      "code": "NJS",
+      "name": "NodeJS",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "HRY"
+      }],
+      "badgets": []
+    },
+    {
+      "id": 6,
+      "code": "EX",
+      "name": "Express",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "HRY"
+      }],
+      "badgets": []
+    },
+    {
+      "id": 7,
+      "code": "PSQL",
+      "name": "PostgreSQL",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "HRY"
+      }],
+      "badgets": []
+    },
+    {
+      "id": 8,
+      "code": "SEQ",
+      "name": "Sequelize",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "HRY"
+      }],
+      "badgets": []
+    },
+    {
+      "id": 9,
+      "code": "GIT",
+      "name": "Git",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "PLZ"
+      }],
+      "badgets": [
+        {
+          "name": "Linkedin",
+          "page": "Linkedin",
+          "url": "https://",
+          "image": "https://"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "code": "TS",
+      "name": "TypeScript",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "N/A"
+      }],
+      "badgets": []
+    },
+    {
+      "id": 11,
+      "code": "BTS",
+      "name": "Bootstrap",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "N/A"
+      }],
+      "badgets": []
+    }
+  ],
+
+
+  "proyects": [
+    {
+      "id": 1,
+      "name": "PI",
+      "isWork": false,
+      "images": {
+        "primary": "https://",
+        "secondary": [
+          "https://",
+          "https://"
+        ]
+      },
+      "description": {
+        "english": "",
+        "spanish": ""
+      },
+      "urls": {
+        "repo": "https://",
+        "website": "https://"
+      },
+      "techs": [
+        "JS",
+        "HTML"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "FoodExpress PF",
+      "isWork": false,
+      "images": {
+        "primary": "https://",
+        "secondary": [
+          "https://",
+          "https://"
+        ]
+      },
+      "description": {
+        "english": "",
+        "spanish": ""
+      },
+      "urls": {
+        "repo": "https://",
+        "website": "https://"
+      },
+      "techs": [
+        "JS",
+        "HTML"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Portfolio",
+      "isWork": false,
+      "images": {
+        "primary": "https://",
+        "secondary": [
+          "https://",
+          "https://"
+        ]
+      },
+      "description": {
+        "english": "",
+        "spanish": ""
+      },
+      "urls": {
+        "repo": "https://",
+        "website": "https://"
+      },
+      "techs": [
+        "JS",
+        "HTML"
+      ]
+    }
+  ],
+
+
+  "sites": [
+    {
+      "id": 1,
+      "code": "N/A",
+      "name": "Autodidacta",
+      "image": "https://",
+      "url": "",
+      "description": {
+        "english": "",
+        "spanish": ""
+      }
+    },
+    {
+      "id": 2,
+      "code": "HRY",
+      "name": "Henry",
+      "image": "https//",
+      "url": "https://",
+      "description": {
+        "english": "",
+        "spanish": ""
+      }
+    },
+    {
+      "id": 3,
+      "code": "PLZ",
+      "name": "Platzi",
+      "image": "https//",
+      "url": "https://",
+      "description": {
+        "english": "",
+        "spanish": ""
+      }
+    }
+  ]
+}
