@@ -1,7 +1,7 @@
 {
   "techs": [
     {
-      "id": 1,
+      "id": 0,
       "code": "JS",
       "name": "JavaScript",
       "image": "https://",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "code": "HTML",
       "name": "HTML",
       "image": "https://",
@@ -35,12 +35,22 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "code": "CSS",
       "name": "CSS",
       "image": "https://",
       "learnedAt": [{
         "code": "HRY"
+      }],
+      "badgets": []
+    },
+    {
+      "id": 3,
+      "code": "BTS",
+      "name": "Bootstrap",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "N/A"
       }],
       "badgets": []
     },
@@ -56,6 +66,16 @@
     },
     {
       "id": 5,
+      "code": "TS",
+      "name": "TypeScript",
+      "image": "https://",
+      "learnedAt": [{
+        "code": "N/A"
+      }],
+      "badgets": []
+    },
+    {
+      "id": 6,
       "code": "NJS",
       "name": "NodeJS",
       "image": "https://",
@@ -65,7 +85,7 @@
       "badgets": []
     },
     {
-      "id": 6,
+      "id": 7,
       "code": "EX",
       "name": "Express",
       "image": "https://",
@@ -75,7 +95,7 @@
       "badgets": []
     },
     {
-      "id": 7,
+      "id": 8,
       "code": "PSQL",
       "name": "PostgreSQL",
       "image": "https://",
@@ -85,7 +105,7 @@
       "badgets": []
     },
     {
-      "id": 8,
+      "id": 9,
       "code": "SEQ",
       "name": "Sequelize",
       "image": "https://",
@@ -95,7 +115,7 @@
       "badgets": []
     },
     {
-      "id": 9,
+      "id": 10,
       "code": "GIT",
       "name": "Git",
       "image": "https://",
@@ -110,26 +130,6 @@
           "image": "https://"
         }
       ]
-    },
-    {
-      "id": 10,
-      "code": "TS",
-      "name": "TypeScript",
-      "image": "https://",
-      "learnedAt": [{
-        "code": "N/A"
-      }],
-      "badgets": []
-    },
-    {
-      "id": 11,
-      "code": "BTS",
-      "name": "Bootstrap",
-      "image": "https://",
-      "learnedAt": [{
-        "code": "N/A"
-      }],
-      "badgets": []
     }
   ],
 
