@@ -1,9 +1,9 @@
 import React from "react";
 
-function Home() {
+function Banner() {
   return <div>
-    HOME
+    BANNER
   </div>
 };
 
-export default Home;
+export default Banner;

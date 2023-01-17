@@ -1,23 +1,15 @@
 import React from "react";
-import { Routes, Route } from "react-router-dom";
 
-import Home from "./pages/Home";
-import Skills from "./pages/Skills";
 import NavBar from "./components/NavBar";
+import Banner from "./components/Banner";
+import Skills from "./components/Skills";
 
 function App() {
   return (
     <>
       <NavBar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/skills" element={<Skills />} />
-      {/*
-        <Route path="/proyects" element={<Proyects />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="*" element={<NotFound404 />} />
-      */}
-      </Routes>
+      <Banner />
+      <Skills />
     </>
   );
 }

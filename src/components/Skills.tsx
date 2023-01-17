@@ -12,20 +12,6 @@ function Skills() {
   }
 
   return <div>
-    <ul>
-      {
-        techs.map(tech => (
-          <li key={tech.id}>
-            <button
-              onClick={() => handleSelect(tech.id)}
-            >
-              {tech.name}
-            </button>
-          </li>
-        ))
-      }
-    </ul>
-    <hr />
     <Carousel
       variant="dark"
       activeIndex={index}
@@ -37,10 +23,6 @@ function Skills() {
             key={tech.id}
             interval={2500}
           >
-            <img
-              src={tech.image}
-              alt={`${tech.code} skill`}
-            />
             <Carousel.Caption>
               <h3>{tech.name}</h3>
             </Carousel.Caption>
