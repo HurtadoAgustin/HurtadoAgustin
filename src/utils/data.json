@@ -4,7 +4,7 @@
       "id": 0,
       "code": "JS",
       "name": "JavaScript",
-      "image": "https://",
+      "image": "vscode-icons:file-type-js-official",
       "learnedAt": [{
         "code": "HRY"
       }],
@@ -21,7 +21,7 @@
       "id": 1,
       "code": "HTML",
       "name": "HTML",
-      "image": "https://",
+      "image": "vscode-icons:file-type-html",
       "learnedAt": [{
         "code": "HRY"
       }],
@@ -38,7 +38,7 @@
       "id": 2,
       "code": "CSS",
       "name": "CSS",
-      "image": "https://",
+      "image": "vscode-icons:file-type-css",
       "learnedAt": [{
         "code": "HRY"
       }],
@@ -48,7 +48,7 @@
       "id": 3,
       "code": "BTS",
       "name": "Bootstrap",
-      "image": "https://",
+      "image": "logos:bootstrap",
       "learnedAt": [{
         "code": "N/A"
       }],
@@ -58,7 +58,7 @@
       "id": 4,
       "code": "JSX",
       "name": "React",
-      "image": "https://",
+      "image": "vscode-icons:file-type-reactts",
       "learnedAt": [{
         "code": "HRY"
       }],
@@ -68,7 +68,7 @@
       "id": 5,
       "code": "TS",
       "name": "TypeScript",
-      "image": "https://",
+      "image": "vscode-icons:file-type-typescript-official",
       "learnedAt": [{
         "code": "N/A"
       }],
@@ -78,7 +78,7 @@
       "id": 6,
       "code": "NJS",
       "name": "NodeJS",
-      "image": "https://",
+      "image": "logos:nodejs-icon",
       "learnedAt": [{
         "code": "HRY"
       }],
@@ -88,7 +88,7 @@
       "id": 7,
       "code": "EX",
       "name": "Express",
-      "image": "https://",
+      "image": "simple-icons:express",
       "learnedAt": [{
         "code": "HRY"
       }],
@@ -98,7 +98,7 @@
       "id": 8,
       "code": "PSQL",
       "name": "PostgreSQL",
-      "image": "https://",
+      "image": "logos:postgresql",
       "learnedAt": [{
         "code": "HRY"
       }],
@@ -108,7 +108,7 @@
       "id": 9,
       "code": "SEQ",
       "name": "Sequelize",
-      "image": "https://",
+      "image": "logos:sequelize",
       "learnedAt": [{
         "code": "HRY"
       }],
@@ -118,7 +118,7 @@
       "id": 10,
       "code": "GIT",
       "name": "Git",
-      "image": "https://",
+      "image": "logos:git-icon",
       "learnedAt": [{
         "code": "PLZ"
       }],
