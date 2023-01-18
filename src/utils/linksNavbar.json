@@ -1,0 +1,24 @@
+{
+  "sections": [
+    "skills",
+    "projects",
+    "contact"
+  ],
+  "socialMedias": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/leandro-agustin-hurtado/",
+      "icon": "skill-icons:linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/HurtadoAgustin",
+      "icon": "skill-icons:github-dark"
+    },
+    {
+      "name": "Gmail",
+      "href": "#contact",
+      "icon": "logos:google-gmail"
+    }
+  ]
+}

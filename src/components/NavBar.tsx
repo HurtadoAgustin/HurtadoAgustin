@@ -1,10 +1,14 @@
 import React from "react";
+import { Icon } from "@iconify/react";
+
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 
+import linksNavbar from "../utils/linksNavbar.json";
+
 function NavBar() {
-  const navLinks = ["skills", "proyects", "contact"];
+  const { sections, socialMedias } = linksNavbar;
 
   return (
     <Navbar
@@ -14,20 +18,33 @@ function NavBar() {
       variant="dark"
     >
       <Container>
-        <a href="/" className="text-decoration-none">
-          <Navbar.Brand>Hurtado Agustín</Navbar.Brand>
-        </a>
-        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
-          <Nav className="me-auto d-flex flex-row">
+        <Navbar.Brand href="#banner">
+          <img src="" alt="Logo" />
+        </Navbar.Brand>
+        <Navbar.Toggle aria-controls="responsive-navbar-nav">
+          <span className="navbar-toggler-icon"></span>
+        </Navbar.Toggle>
+        <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="me-auto">
             {
-              navLinks.map(link => (
-                <a key={link} href={`#${link}`} className="link-info text-decoration-none p-2">
+              sections.map(link => (
+                <Nav.Link key={link} href={`#${link}`}>
                   {link[0].toUpperCase() + link.substring(1)}
-                </a>
+                </Nav.Link>
               ))
             }
           </Nav>
+          <span className="navbar-text">
+            <div className="social-icon">
+              {
+                socialMedias.map(social => (
+                  <a key={social.name} href={social.href}>
+                    <Icon icon={social.icon} />
+                  </a>
+                ))
+              }
+            </div>
+          </span>
         </Navbar.Collapse>
       </Container>
     </Navbar>
