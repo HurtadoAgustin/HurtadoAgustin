@@ -21,7 +21,7 @@ function NavBar() {
         <Navbar.Brand href="#banner">
           <img src="" alt="Logo" />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="responsive-navbar-nav">
+        <Navbar.Toggle aria-controls="basic-navbar-nav">
           <span className="navbar-toggler-icon"></span>
         </Navbar.Toggle>
         <Navbar.Collapse id="basic-navbar-nav">
