@@ -1,6 +1,6 @@
 import React from "react";
 
-function Banner() {
+function Banner(): React.ReactElement {
   return <div>
     BANNER
   </div>

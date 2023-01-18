@@ -22,7 +22,7 @@ function NavBar() {
           <Nav className="me-auto d-flex flex-row">
             {
               navLinks.map(link => (
-                <a href={`#${link}`} className="link-info text-decoration-none p-2">
+                <a key={link} href={`#${link}`} className="link-info text-decoration-none p-2">
                   {link[0].toUpperCase() + link.substring(1)}
                 </a>
               ))
