@@ -7,7 +7,7 @@ function SkillCard({ name, code, image }: tech): React.ReactElement {
   return (
     <div className="item">
       <Icon icon={image} color="#000" />
-      <p>{name}, {code}</p>
+      <h5>{name}, {code}</h5>
     </div>
   )
 }
