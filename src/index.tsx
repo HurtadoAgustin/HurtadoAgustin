@@ -6,6 +6,9 @@ import reportWebVitals from "./reportWebVitals";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "react-multi-carousel/lib/styles.css";
+import "./assets/styles/globalStyles.css";
+import "./assets/fonts/fonts.css";
+import "./assets/styles/styles.css";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement

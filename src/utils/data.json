@@ -134,18 +134,12 @@
   ],
 
 
-  "proyects": [
+  "projects": [
     {
       "id": 1,
       "name": "PI",
       "isWork": false,
-      "images": {
-        "primary": "https://",
-        "secondary": [
-          "https://",
-          "https://"
-        ]
-      },
+      "image": "../assets/imgs/projects/PI.png",
       "description": {
         "english": "",
         "spanish": ""
@@ -163,13 +157,7 @@
       "id": 2,
       "name": "FoodExpress PF",
       "isWork": false,
-      "images": {
-        "primary": "https://",
-        "secondary": [
-          "https://",
-          "https://"
-        ]
-      },
+      "image": "../assets/imgs/projects/FoodExpress.png",
       "description": {
         "english": "",
         "spanish": ""
@@ -187,13 +175,7 @@
       "id": 3,
       "name": "Portfolio",
       "isWork": false,
-      "images": {
-        "primary": "https://",
-        "secondary": [
-          "https://",
-          "https://"
-        ]
-      },
+      "image": "",
       "description": {
         "english": "",
         "spanish": ""
