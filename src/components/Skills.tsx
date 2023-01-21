@@ -23,7 +23,7 @@ function Skills(): React.ReactElement {
               <Carousel
                 responsive={carouselConfig}
                 infinite={true}
-                className="owl-carousel owl-theme skill-slider"  
+                className="owl-carousel owl-theme skill-slider"
               >
                 {
                   techs.map(tech => (
