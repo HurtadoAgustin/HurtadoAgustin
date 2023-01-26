@@ -6,9 +6,12 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 
 import linksNavbar from "../utils/linksNavbar.json";
+import useScroll from "../hooks/useScroll";
+import logo from "../assets/imgs/logo.png";
 
-function NavBar() {
+function NavBar(): React.ReactElement {
   const { sections, socialMedias } = linksNavbar;
+  const scrolled = useScroll();
 
   return (
     <Navbar
@@ -16,10 +19,11 @@ function NavBar() {
       expand="lg"
       bg="dark"
       variant="dark"
+      className={scrolled ? "scrolled" : ""}
     >
       <Container>
         <Navbar.Brand href="#banner">
-          <img src="" alt="Logo" />
+          <img src={logo} alt="Logo"/>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav">
           <span className="navbar-toggler-icon"></span>
@@ -39,7 +43,7 @@ function NavBar() {
               {
                 socialMedias.map(social => (
                   <a key={social.name} href={social.href}>
-                    <Icon icon={social.icon} />
+                    <Icon icon={social.icon} color="#000" />
                   </a>
                 ))
               }
