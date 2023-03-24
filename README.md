@@ -5,9 +5,6 @@
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 Since I was young I have been passionate about activities that require creating, using logic, technology, programming and I am always looking for new challenges to learn, develop myself and grow personally.
 
-Actually I am looking for a job opportunity where I could apply my skills and gain new experencies. I have worked on some personal and academic proyects, developing scalable and efficient applications.
-
-I would like to work in a colaborative and enriching environment, in which I can learn and contribute to the creation of solutions for the consequent individual and collective success.
 
 ## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
